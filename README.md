@@ -29,6 +29,14 @@ An interactive two-page Power BI business intelligence report analyzing 2024 ret
 - *Profit & Discount Performance:* Multi-column evaluation examining how discounting affects profit margins across product tiers.
 - *Monthly Sales Distribution:* Column view reinforcing seasonal revenue patterns across the year.
 
+- ## Dashboard Preview
+
+### Page 1: Executive Summary & Core Performance
+![Nova Mart Retail Dashboard - Page 1](page1.png)
+
+### Page 2: Segment, Sub-Category & Discount Analysis
+![Nova Mart Retail Dashboard - Page 2](page2.png)
+
 ---
 
 ## Key Analytical Insights
