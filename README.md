@@ -31,13 +31,12 @@ An interactive two-page Power BI business intelligence report analyzing 2024 ret
 
 ## Dashboard Preview
 
-### Page 1: Executive Summary & Core Performance
-![Nova Mart Retail Dashboard - Page 1](image.png)
-
-### Page 2: Segment, Sub-Category & Discount Analysis
+### Page 1: Segment, Sub-Category & Discount Analysis
 ![Nova Mart Retail Dashboard - Page 2](Screenshot%202026-11-20%20115459.png)
 
 
+### Page 2: Executive Summary & Core Performance
+![Nova Mart Retail Dashboard - Page 1](image.png)
 
 ---
 
